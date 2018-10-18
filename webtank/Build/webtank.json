@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UniteBoston2015TrainingDay",
+"dataUrl": "webtank.data.unityweb",
+"asmCodeUrl": "webtank.asm.code.unityweb",
+"asmMemoryUrl": "webtank.asm.memory.unityweb",
+"asmFrameworkUrl": "webtank.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

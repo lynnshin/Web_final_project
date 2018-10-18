@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/webprojectsave.unity
+  isLoaded: 1
+  isActive: 1
