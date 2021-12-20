@@ -3,8 +3,8 @@
 #### Ranking & Game 為一個具有會員、遊戲、排行榜等功能的網站
 
 * 網頁前端設計使用現成模板再進行後續的調整
-* 利用WebGL將用Unity製作的遊戲鑲嵌到Web上面
-* 使用php與後端資料庫做連結，可以進行會員登入、創建，以及顯示遊戲分數排行榜
+* 利用 WebGL 將用 Unity 製作的遊戲鑲嵌到 Web 上面
+* 使用 PHP 與後端資料庫做連結，可以進行會員登入、創建，以及顯示遊戲分數排行榜
 
 網址：http://www.meifinalproject.lionfree.net/
 
